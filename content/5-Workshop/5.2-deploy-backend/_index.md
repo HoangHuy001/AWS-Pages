@@ -218,8 +218,8 @@ or
 
 **How to open the dashboard:**
 
-{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg" alt="cloudwtach buoc 1" >}}
-{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg" alt="cloudwtach buoc 2" >}}
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg" alt="cloudwtach buoc 1">}}
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg" alt="cloudwtach buoc 2">}}
 
 This dashboard name is created by MonitoringStack.
 
