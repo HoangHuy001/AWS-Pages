@@ -1,4 +1,4 @@
-```md id="wklog-en"
+
 ---
 title: "Work Log"
 date: 2026-07-12
@@ -42,4 +42,3 @@ pre: " <b> 1. </b> "
 
 - **Week 12:** [Project Deployment, Testing, and Finalization](1.12-week12/)
   - Integrated Amazon CloudFront with AWS WAF, automated deployment using AWS CodePipeline, performed end-to-end testing, optimized cloud costs, and completed the final project report.
-```
