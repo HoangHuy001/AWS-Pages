@@ -1,0 +1,25 @@
+Estimate summary,,,,,,,,,
+Upfront cost,Monthly cost,Total 12 months cost,Currency,,,,,,
+0,10.92225,131.07,USD,,,,,,
+,,* Includes upfront cost,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Detailed Estimate,,,,,,,,,
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,Asia Pacific (Singapore),,AWS Lambda,0,0,0,USD,,"Invoke Mode (Buffered), Architecture (Arm), Architecture (x86), Number of requests (30000 per month), Amount of ephemeral storage allocated (512 MB)"
+My Estimate,Asia Pacific (Singapore),,DynamoDB on-demand capacity,0,0.04,0.48,USD,,"Table class (Standard), Average item size (all attributes) (1 KB), Data storage size (0.1 GB)"
+My Estimate,Asia Pacific (Singapore),,DynamoDB Backup and restore,0,0.23,2.76,USD,,Point-In-Time Recovery (PITR) data storage (1 GB)
+My Estimate,Asia Pacific (Singapore),,Amazon API Gateway,0,0.13,1.56,USD,,"HTTP API requests units (millions), Average size of each request (34 KB), REST API request units (exact number), Cache memory size (GB) (None), WebSocket message units (thousands), Average message size (32 KB), Requests (30000 per month)"
+My Estimate,Asia Pacific (Singapore),SQS (singapore),Amazon Simple Queue Service (SQS),0,0,0,USD,,Standard queue requests (0.001 million per month)
+My Estimate,Asia Pacific (Singapore),EventBridge (sin),Amazon EventBridge,0,0,0,USD,,"Size of the payload (1 KB), Number of custom events (3000 per month), Number of events delivered to a service in the same account (3000 per month)"
+My Estimate,Asia Pacific (Singapore),S3 (sin),S3 Standard,0,0,0,USD,,"S3 Standard storage (0.01 GB per month), PUT, COPY, POST, LIST requests to S3 Standard (100)"
+My Estimate,Asia Pacific (Singapore),S3 (sin),Data Transfer,0,0,0,USD,,
+My Estimate,Asia Pacific (Singapore),,Amazon CloudFront,0,0.14,1.68,USD,,"Data transfer out to internet (1 GB per month), Data transfer out to origin (0.1 GB per month), Number of requests (HTTPS) (10000 per month)"
+My Estimate,US East (N. Virginia),,AWS Web Application Firewall (WAF),0,9.02,108.24,USD,,"Number of Web Access Control Lists (Web ACLs) utilized (1 per month), Number of Rules added per Web ACL (1 per month), Number of Managed Rule Groups per Web ACL (3 per month)"
+My Estimate,Asia Pacific (Singapore),Cognito (sin),Amazon Cognito,0,0.01,0.12,USD,,"Optimization Rate for Token Requests (0), Optimization Rate for App Clients (0), Advanced security features (Disabled), Number of monthly active users (MAU) (10)"
+My Estimate,Asia Pacific (Singapore),CloudWatch (sin),Amazon CloudWatch,0,0.95225,11.43,USD,,"Number of mobile OTEL events and spans or spans per visit (70), Mobile sampling rate (1), Standard Logs: Data Ingested (0.5 GB), Number of Dashboards (1), Number of Standard Resolution Alarm Metrics (6)"
+My Estimate,Asia Pacific (Singapore),SNS (sin),Standard topics,0,0,0,USD,,"Requests (1000 per month), EMAIL/EMAIL-JSON Notifications (100 per month)"
+My Estimate,Asia Pacific (Singapore),Secrets Manager,AWS Secrets Manager,0,0.4,4.8,USD,,"Number of secrets (1), Average duration of each secret (30 days), Number of API calls (100 per month)"
+,,,,,,,,,
+Acknowledgement,,,,,,,,,
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,,,
