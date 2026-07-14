@@ -1,4 +1,3 @@
-```md id="events-en"
 ---
 title: "Events Attended"
 date: 2026-07-12
@@ -115,4 +114,3 @@ pre: " <b> 4. </b> "
 - Learned how AI can reduce incident recovery time in modern operations.
 - Recognized the benefits of AI for automating HR processes.
 - Developed a better understanding of Model Context Protocol (MCP) and secure enterprise AI integration.
-```
