@@ -18,7 +18,7 @@ AWS introduces a **Dual-token Authentication** architecture that combines **Amaz
 The solution is organized into multiple layers to separate authentication, traffic routing, and game session management.
 
 > *Figure 1. Dual-token Authentication architecture for Nakama on AWS.*
-
+* {{< img src="images/3-BlogsTranslated/blog3_1.jpg" alt="Images Blog" >}}
 The authentication workflow consists of the following steps:
 
 - The player signs in through Amazon Cognito.

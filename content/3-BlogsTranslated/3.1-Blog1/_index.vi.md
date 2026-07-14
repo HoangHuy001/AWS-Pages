@@ -20,7 +20,7 @@ Giải pháp sử dụng **Amazon Cognito** để quản lý danh tính người
 Kiến trúc được chia thành nhiều lớp nhằm tách biệt quá trình xác thực, định tuyến lưu lượng và xử lý kết nối thời gian thực.
 
 > *Hình 1. Kiến trúc Dual-token Authentication trên AWS.*
-
+* {{< img src="images/3-BlogsTranslated/blog3_1.jpg" alt="Images Blog" >}}
 Luồng xử lý hoạt động như sau:
 
 - Người chơi đăng nhập thông qua **Amazon Cognito** và nhận JWT Access Token.
