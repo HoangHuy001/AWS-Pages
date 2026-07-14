@@ -138,11 +138,7 @@ Tham gia **First Cloud AI Journey - Community Sharing Day** giúp mình tiếp c
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-- Hình ảnh bài chia sẻ **From IT Helpdesk to Senior Sysadmin**.
-- Hình ảnh bài chia sẻ **Build GraphRAG Applications Using Amazon Bedrock and Amazon Neptune**.
-- Hình ảnh bài chia sẻ **The Art of Effective Teamwork**.
-- Hình ảnh bài chia sẻ **Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets**.
-- Hình ảnh bài chia sẻ **Machine Learning-based Network Intrusion Detection System (NIDS) on AWS**.
-- Hình ảnh bài chia sẻ **Docker – A Containerization Technology**.
+
+* {{< img src="images/4-EventParticipated/4.3-Event3.jpg" alt="Images event" >}}
 
 > Nhìn chung, buổi **First Cloud AI Journey - Community Sharing Day** mang lại nhiều kiến thức thực tiễn về Cloud Computing, Artificial Intelligence, DevOps và Cyber Security. Sự kiện không chỉ giúp mình hiểu rõ hơn về các công nghệ hiện đại mà còn truyền cảm hứng để tiếp tục học tập, xây dựng dự án thực tế và chuẩn bị tốt hơn cho con đường trở thành một Cloud Engineer trong tương lai.
