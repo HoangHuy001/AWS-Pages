@@ -21,7 +21,7 @@ Bootstrap → AuthStack → DatabaseStack → EventStack → ApiStack → Securi
 
 ### 5.2.1 Deploy AuthStack
 
-**Purpose:** Creates the Cognito User Pool, User Pool Client, and CUSTOMER/ADMIN groups. All protected API routes validate tokens issued by this pool.
+**Purpose:** Creates the Cognito User Pool, User Pool Client, and the CUSTOMER group. All protected API routes validate tokens issued by this pool.
 
 ```bash
 cd infrastructure
@@ -218,8 +218,8 @@ or
 
 **How to open the dashboard:**
 
-![cloudwtach buoc 1](/images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg)
-![cloudwtach buoc 2](/images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg)
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg" alt="cloudwtach buoc 1" >}}
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg" alt="cloudwtach buoc 2" >}}
 
 This dashboard name is created by MonitoringStack.
 

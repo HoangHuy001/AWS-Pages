@@ -21,7 +21,7 @@ Bootstrap → AuthStack → DatabaseStack → EventStack → ApiStack → Securi
 
 ### 5.2.1 Triển khai AuthStack
 
-**Mục đích:** Tạo Cognito User Pool, User Pool Client và hai nhóm CUSTOMER/ADMIN. Tất cả các route API được bảo vệ đều xác thực token được phát hành bởi pool này.
+**Mục đích:** Tạo Cognito User Pool, User Pool Client và nhóm CUSTOMER. Tất cả các route API được bảo vệ đều xác thực token được phát hành bởi pool này.
 
 ```bash
 cd infrastructure
@@ -219,8 +219,8 @@ aws cloudwatch describe-alarms \
 hoặc 
 
 **Cách mở dashboard:**
-![cloudwtach buoc 1](/images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg)
-![cloudwtach buoc 2](/images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg)
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatcha.jpg" alt="cloudwtach buoc 1" >}}
+{{< img src="images/5-Workshop/5.2-deploy-backend/cloudwatchb.jpg" alt="cloudwtach buoc 2" >}}
 
 Dashboard này được tạo bởi MonitoringStack.
 
