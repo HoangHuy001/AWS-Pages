@@ -18,7 +18,7 @@ To provide an objective reflection on my internship performance, I have conducte
 | --- | ------------------- | ----------- | :--: | :--: | :-----: |
 | 1 | **Technical Knowledge and Skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, and quality of work | ✅ | ☐ | ☐ |
 | 2 | **Learning Ability** | Ability to learn new knowledge quickly and effectively | ☐ | ✅ | ☐ |
-| 3 | **Proactiveness** | Taking initiative and completing tasks without constant supervision | ☐ | ✅ | ☐ |
+| 3 | **Proactiveness** | Taking initiative and completing tasks without constant supervision | ✅ | ☐ | ☐ |
 | 4 | **Responsibility** | Completing assigned tasks on time while maintaining quality | ✅ | ☐ | ☐ |
 | 5 | **Discipline** | Following organizational rules, schedules, and working procedures | ☐ | ✅ | ☐ |
 | 6 | **Willingness to Improve** | Accepting feedback and continuously improving oneself | ☐ | ✅ | ☐ |
@@ -33,5 +33,4 @@ To provide an objective reflection on my internship performance, I have conducte
 
 - Continue expanding my knowledge of Cloud Computing, DevOps, and AWS services through continuous learning and hands-on projects.
 - Strengthen my analytical thinking and problem-solving skills to develop more effective solutions in real-world scenarios.
-- Improve my communication and presentation skills to express ideas more clearly and confidently when working with mentors, colleagues, and clients.
 - Enhance my time management and task prioritization skills to ensure work is completed efficiently and on schedule.
